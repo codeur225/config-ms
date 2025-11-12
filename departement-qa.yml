@@ -2,8 +2,6 @@ spring:
  config:
   activate:
    on-profile: "qa"
-build:
- version: 2.0
 author:
  name: "nadhem bel Hadj [QA]"
  email: "nadhemb@yahoo.com [QA]"
