@@ -5,3 +5,5 @@ spring:
 author:
  name: "nadhem bel Hadj [QA]"
  email: "nadhemb@yahoo.com [QA]"
+   
+xParam: "xValue1-qa"

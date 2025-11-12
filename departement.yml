@@ -3,3 +3,5 @@ spring:
   import:
    - "application-prod.yml"
    - "application-qa.yml
+
+xParam: "xValue1"
