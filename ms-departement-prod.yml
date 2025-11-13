@@ -1,7 +1,3 @@
-spring:
- config:
-  activate:
-   on-profile: "prod"
 author:
  name: "nadhem bel Hadj [PROD]"
  email: "nadhemb@yahoo.com [PROD]"

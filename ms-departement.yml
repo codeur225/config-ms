@@ -1,9 +1,6 @@
-spring:
- config:
-  import:
-   - "application-prod.yml"
-   - "application-qa.yml
-
+author:
+ name: "nadhem bel Hadj"
+ email: "eldkfjjf@hdhh.de"
 xParam: "xValue1"
 Build:
  version: "1.0.0"

@@ -1,7 +1,3 @@
-spring:
- config:
-  activate:
-   on-profile: "qa"
 author:
  name: "nadhem bel Hadj [QA]"
  email: "nadhemb@yahoo.com [QA]"
