@@ -7,3 +7,5 @@ author:
  email: "nadhemb@yahoo.com [QA]"
    
 xParam: "xValue1-qa"
+Build:
+ version: "1.0.0"

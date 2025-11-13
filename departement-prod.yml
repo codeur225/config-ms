@@ -7,3 +7,6 @@ author:
  email: "nadhemb@yahoo.com [PROD]"
 
  xParam: "xValue1-prod"
+
+Build:
+ version: "1.0.0"
